@@ -2,15 +2,16 @@
   "name": "express-practice",
   "version": "1.0.0",
   "description": "Matt McTighe - i'm practicing using Express",
- 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "main": "node app.js"
+    "main": "node app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^2.2.0",
-    "express": "^5.1.0"
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
   }
 }
