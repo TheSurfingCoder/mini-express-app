@@ -1,0 +1,16 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "Matt McTighe - i'm practicing using Express",
+ 
+  "scripts": {
+  "start-app1": "node app.js",
+  "start-app2": "node app2.js"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
