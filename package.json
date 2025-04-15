@@ -4,9 +4,9 @@
   "description": "Matt McTighe - i'm practicing using Express",
  
   "scripts": {
-  "start-app1": "node app.js",
-  "start-app2": "node app2.js"
-},
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "main": "node app.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
